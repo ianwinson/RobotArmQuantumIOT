@@ -1,0 +1,10 @@
+README Setup
+Robot Arm Setup and Debugging For Stack and  R2D2 mode:
+
+
+Physical setup 
+	Assuming you are still on the white table, place the robot on the corner, with the wires hanging off the long edge of the table. Make sure the edges of the robots base are flush with the tables’ edges.  Next, place the red platform across the table, six inches from the robots front. (See pictures) Also, tape the quantum logo down so that the top left part of the ‘Q’ is against the bottom left of the platform. The R2D2 goes in the bottom right corner of the platform with its exit hole facing the platform. 
+Running the code:
+	As of 1 PM on 7/21, the code is not on a rasberry pi ready to deploy. The code was run off a laptop with a configured python interpreter and the opencv and serial library installed. Run either the GrabAllCubes() method or the loopR2D2() method. 
+
+
